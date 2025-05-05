@@ -1,0 +1,39 @@
+{
+  "quotes": [
+    {"id": 1, "text": "You're a slave to likes—die already.", "category": "social_media", "intensity": "extreme"},
+    {"id": 2, "text": "You're a disgusting pervert.", "category": "porn", "intensity": "extreme"},
+    {"id": 3, "text": "Your lungs are begging for mercy, idiot.", "category": "substance", "intensity": "extreme"},
+    {"id": 4, "text": "Instagram won't fill the void in your pathetic life.", "category": "social_media", "intensity": "extreme"},
+    {"id": 5, "text": "You're literally wiring your brain to prefer pixels over real intimacy.", "category": "porn", "intensity": "moderate"},
+    {"id": 6, "text": "Each cigarette is another nail in your coffin. Keep it up, genius.", "category": "substance", "intensity": "moderate"},
+    {"id": 7, "text": "You've wasted years scrolling. What achievements do you have to show?", "category": "social_media", "intensity": "moderate"},
+    {"id": 8, "text": "That dopamine hit from TikTok is making you a zombie.", "category": "social_media", "intensity": "moderate"},
+    {"id": 9, "text": "No one respects a porn addict. Not even you.", "category": "porn", "intensity": "extreme"},
+    {"id": 10, "text": "Your drinking is disappointing everyone who loves you.", "category": "substance", "intensity": "moderate"},
+    {"id": 11, "text": "Try being productive instead of refreshing your feed again.", "category": "social_media", "intensity": "mild"},
+    {"id": 12, "text": "Your willpower is weaker than your WiFi signal.", "category": "social_media", "intensity": "moderate"},
+    {"id": 13, "text": "Porn is destroying your ability to connect with real people.", "category": "porn", "intensity": "mild"},
+    {"id": 14, "text": "That cigarette shows how little you value your future.", "category": "substance", "intensity": "moderate"},
+    {"id": 15, "text": "Your social media addiction is making you shallow and boring.", "category": "social_media", "intensity": "moderate"},
+    {"id": 16, "text": "You need to touch grass. Put the phone down, loser.", "category": "social_media", "intensity": "mild"},
+    {"id": 17, "text": "How many brain cells have you killed while watching that filth?", "category": "porn", "intensity": "extreme"},
+    {"id": 18, "text": "Every drink you take makes you more useless tomorrow.", "category": "substance", "intensity": "moderate"},
+    {"id": 19, "text": "You care more about strangers' approval than your own future.", "category": "social_media", "intensity": "moderate"},
+    {"id": 20, "text": "Real winners don't need porn. But you wouldn't know.", "category": "porn", "intensity": "extreme"},
+    {"id": 21, "text": "Your body is a temple, not a toxic waste dump.", "category": "substance", "intensity": "mild"},
+    {"id": 22, "text": "Social media is the junk food of human connection. And you're obese.", "category": "social_media", "intensity": "moderate"},
+    {"id": 23, "text": "One hour of porn = one step closer to being alone forever.", "category": "porn", "intensity": "moderate"},
+    {"id": 24, "text": "Your smoking habit screams 'I make terrible life choices.'", "category": "substance", "intensity": "moderate"},
+    {"id": 25, "text": "Stop scrolling and do something meaningful with your life.", "category": "social_media", "intensity": "mild"},
+    {"id": 26, "text": "You've become the kind of loser who gets dopamine from hearts and thumbs.", "category": "social_media", "intensity": "extreme"},
+    {"id": 27, "text": "Porn is stealing your energy, motivation, and future.", "category": "porn", "intensity": "moderate"},
+    {"id": 28, "text": "Smoking isn't a personality trait, it's a weakness.", "category": "substance", "intensity": "moderate"},
+    {"id": 29, "text": "Your addiction to likes is making you a shallow version of yourself.", "category": "social_media", "intensity": "moderate"},
+    {"id": 30, "text": "Your brain on porn is literally shrinking. Like your chances at success.", "category": "porn", "intensity": "extreme"}
+  ],
+  "preferences": {
+    "social_media": 0.3,
+    "porn": 0.5,
+    "substance": 0.2
+  }
+}
